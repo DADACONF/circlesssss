@@ -1,7 +1,7 @@
 # Circlesssss!
 Creates a 1024x768 window with a flashing ellipse of varying colors and widths at the cursor. Mouse click = black circle.
 
-![alt text](https://github.com/DADACONF/circlesssss/blob/master/kill_tim_faust.png "Kill Tim Faust")
+![alt text](https://github.com/DADACONF/circlesssss/blob/master/kill_tim_faust.png ":: KILL TIM FAUST ::")
 
 Made using [Processing](https://processing.org/ "Processing"), an open-source programming language / development environment that promotes software literacy within the visual arts and visual literacy within technology. 
 
